@@ -22,5 +22,11 @@ p{
     margin-right: var(--margin_sides_input);
     margin-top: 25pt;
     border-radius: 8pt;
+    padding: 5pt;
     background-color: rgb(190, 190, 190);
+}
+input{
+    padding: 5pt;
+    border-radius: 5pt;
+    border: 1px solid black;
 }
